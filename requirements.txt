@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+supabase
+pydantic
+langchain-community
+langchain-core
+langchain-google-genai
+sentence-transformers
+chromadb
+pypdf
+pillow
+pdf2image
+pytesseract
+python-docx
+nltk
+google-api-python-client 
